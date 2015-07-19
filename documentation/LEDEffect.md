@@ -42,3 +42,12 @@ Stops the effect.
 | Param | Type | Description |
 | --- | --- | --- |
 | [callback] | <code>function</code> | A function to call when the effect has stopped. Optional. |
+
+### Events
+<code>[LEDEffect](#LEDEffect)</code> is an `EventEmitter`. 
+
+| Event | Description |
+| --- | --- |
+| started | Fired when an effect has been started. |
+| stopped | Fired when an effect has been stopped. |
+| finished | Fired when an effect has finished. |
