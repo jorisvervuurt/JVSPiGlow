@@ -68,9 +68,9 @@ JVSPiGlow consists of four separate components:
 * `JVSPiGlow.LEDCollection` - an object that represents a collection of LEDs
 * `JVSPiGlow.LEDEffect` - an object that represents an effect that can be applied to a specific LED or a collection of LEDs
 
-Documentation for each of the above mentioned components can be found [here](https://github.com/jorisvervuurt/JVSPiGlow/documentation).
+Documentation for each of the above mentioned components can be found [here](https://github.com/jorisvervuurt/JVSPiGlow/tree/master/documentation).
 
-Code examples that show how to use JVSPiGlow can be found [here](https://github.com/jorisvervuurt/JVSPiGlow/examples).
+Code examples that show how to use JVSPiGlow can be found [here](https://github.com/jorisvervuurt/JVSPiGlow/tree/master/examples).
 
 ## License
 The MIT License (MIT)
