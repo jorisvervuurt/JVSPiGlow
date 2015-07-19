@@ -1,0 +1,22 @@
+{
+  "name": "jvspiglow",
+  "version": "1.0.0",
+  "description": "A lightweight but powerful module, that allows you to easily control a PiGlow from Node.js",
+  "keywords": [
+    "pimoroni",
+    "piglow",
+    "raspberry",
+    "pi"
+  ],
+  "homepage": "https://github.com/jorisvervuurt/jvspiglow",
+  "bugs" : {
+    "url": "https://github.com/jorisvervuurt/jvspiglow/issues"
+  },
+  "license": "MIT",
+  "author": "Joris Vervuurt <developer@joris-vervuurt.com> (https://www.joris-vervuurt.com)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jorisvervuurt/jvspiglow"
+  }
+}
