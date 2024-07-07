@@ -1,6 +1,10 @@
 # JVSPiGlow
 > A lightweight but powerful module, that allows you to easily control a [PiGlow](http://shop.pimoroni.com/products/piglow) from [Node.js](https://nodejs.org)
 
+# IMPORTANT NOTICE
+This repository has moved to [GitLab](https://gitlab.joris-vervuurt.com/pimoroni/jvspiglow).
+The GitHub repository been archived and will no longer be maintained.
+
 ## Features
 JVSPiGlow allows you to control a PiGlow in multiple ways:
 
